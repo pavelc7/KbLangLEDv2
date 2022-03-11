@@ -1,5 +1,6 @@
 // KbLangLEDv2.cpp
-// There is KbLangLED.dpr on Delphi
+// There is KbLangLED.dpr on Delphi 
+// see https://habr.com/ru/post/651317/comments/#comment_24073011
 // I rewrote on C++, added some modifications
 // "KbLangLEDv2.cpp" - is the source code, so you can recompile utility with any changes.
 // https://sourceforge.net/projects/kblangledv2
